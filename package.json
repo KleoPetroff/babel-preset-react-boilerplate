@@ -11,6 +11,13 @@
     "Babel",
     "ReactJS"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KleoPetroff/babel-preset-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KleoPetroff/babel-preset-react-boilerplate/issues"
+  },
   "author": "Kliment Petrov <kleopetroff@gmail.com> (http://kleopetrov.me)",
   "license": "MIT",
   "dependencies": {
