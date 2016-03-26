@@ -5,6 +5,7 @@ The preset includes:
 - babel-plugin-syntax-class-properties
 - babel-plugin-syntax-decorators
 - babel-plugin-syntax-object-rest-spread
+- babel-plugin-transform-class-properties
 - babel-plugin-transform-decorators-legacy
 - babel-plugin-transform-object-assign
 - babel-plugin-transform-object-rest-spread
