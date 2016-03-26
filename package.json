@@ -1,6 +1,6 @@
 {
   "name": "babel-preset-react-boilerplate",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Babel presets for the React Boilerplate",
   "main": "index.js",
   "scripts": {
